@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Semester 4/MCA471 Mobile Applications/Lab/Lab 2/actionbar/app/src/main/res/drawable/ic_baseline_dark_mode_24.xml" value="0.231" />
+        <entry key="..\:/Semester 4/MCA471 Mobile Applications/Lab/Lab 2/actionbar/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.231" />
         <entry key="..\:/Semester 4/MCA471 Mobile Applications/Lab/Lab 2/actionbar/app/src/main/res/layout/activity_main.xml" value="0.125" />
         <entry key="..\:/Semester 4/MCA471 Mobile Applications/Lab/Lab 2/actionbar/app/src/main/res/layout/toolbar.xml" value="0.136" />
+        <entry key="..\:/Semester 4/MCA471 Mobile Applications/Lab/Lab 2/actionbar/app/src/main/res/menu/menu.xml" value="0.125" />
       </map>
     </option>
   </component>
